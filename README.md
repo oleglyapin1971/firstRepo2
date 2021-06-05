@@ -1,2 +1,2 @@
 # firstRepo2
-my firs Repo
+my first Repo
